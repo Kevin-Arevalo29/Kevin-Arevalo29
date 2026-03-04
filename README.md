@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Kevin 👋
 
-<!--
-**Kevin-Arevalo29/Kevin-Arevalo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+Soy estudiante de **Ingeniería de Sistemas** y desarrollador apasionado por el ecosistema de **JavaScript** y **Java**. Actualmente me enfoco en crear soluciones Full Stack modernas.
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías que utilizo
+* **Frontend:** React.js, HTML5, CSS3.
+* **Backend:** Node.js, Express, Java.
+* **Base de Datos:** PostgreSQL.
+* **Herramientas:** Git, GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Mis proyectos destacados
+* [Rick and Morty Explorer](https://github.com/Kevin-Arevalo29/rick-and-morty-character-explorer): Aplicación con React para explorar el universo de la serie.
