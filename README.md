@@ -21,4 +21,4 @@ Soy estudiante de **Ingeniería de Sistemas** en la Universidad Santo Tomás y a
 ### 📫 Conéctate conmigo
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kevin-arevalo-dev/)
 
-![Estadísticas de Kevin](https://github-readme-stats.vercel.app/api?username=Kevin-Arevalo29&show_icons=true&theme=tokyonight)
+![Estadísticas de Kevin](https://github-readme-stats.vercel.app/api?username=Kevin-Arevalo29&show_icons=true&theme=tokyonight&hide_border=true)
